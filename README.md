@@ -1,4 +1,4 @@
-# Data Engineering Nanodegree
+# Data Engineering Nanodegree - Daniele Rabelo
 This project loads data from music streaming .json files and inserts it into postgresql in a relational model.
 
 **Prerequisites:**
